@@ -140,12 +140,7 @@ const Home = () => {
           <div className="main">
             <div className="content">
               <p>
-                Contrary to popular belief, Lorem Ipsum is not simply random
-                text. It has roots in a piece of classical Latin literature from
-                45 BC, making it over 2000 years old. Richard McClintock, a
-                Latin professor at Hampden-Sydney College in Virginia, looked up
-                one of the more obscure Latin words, consectetur, from a Lorem
-                Ipsum passage, and going through the cites of the word
+                Brand Mayilmark was birthed in 1960 by our visionary founder, Mr. Vanniarajan, amidst the vibrant landscapes of Coimbatore, Tamil Nadu, India, under the distinguished banner of Ponmurugan Dhall Mills.
               </p>
               <div className="about_us_button">
                 <NavLink to="/about-us">
