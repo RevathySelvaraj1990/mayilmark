@@ -140,12 +140,7 @@ const Home = () => {
           <div className="main">
             <div className="content">
               <p>
-                Contrary to popular belief, Lorem Ipsum is not simply random
-                text. It has roots in a piece of classical Latin literature from
-                45 BC, making it over 2000 years old. Richard McClintock, a
-                Latin professor at Hampden-Sydney College in Virginia, looked up
-                one of the more obscure Latin words, consectetur, from a Lorem
-                Ipsum passage, and going through the cites of the word
+                Brand Mayilmark was birthed in 1960 by our visionary founder, Mr. Vanniarajan, amidst the vibrant landscapes of Coimbatore, Tamil Nadu, India, under the distinguished banner of Ponmurugan Dhall Mills.
               </p>
               <div className="about_us_button">
                 <NavLink to="/about-us">
@@ -176,12 +171,7 @@ const Home = () => {
           </header>
           <p className="content">
             {" "}
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
-            It has roots in a piece of classical Latin literature from 45 BC,
-            making it over 2000 years old. Richard McClintock, a Latin professor
-            at Hampden-Sydney College in Virginia, looked up one of the more
-            obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-            going through the cites of the word
+            Biriyani, renowned for its olfactory splendor and epicurean sophistication, reigns supreme as one of the world's most coveted gastronomic marvels. Despite its gastronomic allure as a palatable repast, the art of biriyani craftsmanship poses formidable challenges. Enter biriyani masala, a culinary panacea that facilitates the attainment of gastronomic perfection with minimal exertion
           </p>
           <div className="products_section">
             <img src={edge3} className="left_edge" />
@@ -249,12 +239,7 @@ const Home = () => {
           </header>
           <p className="content">
             {" "}
-            Contrary to popular belief, Lorem Ipsum is not simply random text.
-            It has roots in a piece of classical Latin literature from 45 BC,
-            making it over 2000 years old. Richard McClintock, a Latin professor
-            at Hampden-Sydney College in Virginia, looked up one of the more
-            obscure Latin words, consectetur, from a Lorem Ipsum passage, and
-            going through the cites of the word
+             The impeccably crisp and delicately layered kachori epitomizes snack perfection. This traditional Khasta kachori recipe showcases a savory lentil filling, intricately enveloped and flawlessly fried to achieve unparalleled excellence.
           </p>
           <div className="images">
             <img src={edge3} className="right_edge" />
